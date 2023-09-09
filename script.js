@@ -41,7 +41,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img,.skills-container, .portfolio-box, .achievements-container', { origin: 'bottom' });
+ScrollReveal().reveal('.home-img,.skills-container, .portfolio-box, .achievement-box', { origin: 'bottom' });
 ScrollReveal().reveal('.about-img,.home-content h1', { origin: 'left' });
 ScrollReveal().reveal('.about-content, .home-content p', { origin: 'right' });
 
